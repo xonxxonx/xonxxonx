@@ -42,6 +42,8 @@ AI기반 챗봇 및 OCR 개발 전문가 과정
 
 <br>
 
+<hr>
+
 ### <img src="https://github.com/user-attachments/assets/45230baf-f26a-4dee-b446-189153f67626" width="20"/> Languages and Tools
 
 ![image](https://github.com/user-attachments/assets/5accb517-be94-4a11-8079-5eff54a9b350)
@@ -61,4 +63,16 @@ AI기반 챗봇 및 OCR 개발 전문가 과정
 ![image](https://github.com/user-attachments/assets/8c8946e5-2602-45b8-9e3f-4698b71ffc75)
 ![image](https://github.com/user-attachments/assets/ba4ac854-93aa-44c2-b0ea-7bf4c2d717cc)
 ![image](https://github.com/user-attachments/assets/2c492224-ea57-475e-bc78-f981e8d57b62)
+
+<hr>
+
+KDT 1차 프로젝트 | CLEANEAT | WEB Project
+![image](https://github.com/user-attachments/assets/b86a1bca-70e6-49db-80b6-9eeb7454bf19)
+
+
+KDT 2차 프로젝트 | CHATBOT_PLE | NLP, OCR Project
+![image](https://github.com/user-attachments/assets/70a62c80-7efd-43cb-990b-80403e6ebc38)
+
+KDT 3차 프로젝트 | GRUIT | ComputerVision Project
+
 
