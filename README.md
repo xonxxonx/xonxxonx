@@ -66,13 +66,16 @@ AI기반 챗봇 및 OCR 개발 전문가 과정
 
 <hr>
 
-KDT 1차 프로젝트 | CLEANEAT | WEB Project
+**KDT 1차 프로젝트 | CLEANEAT | WEB Project**
 ![image](https://github.com/user-attachments/assets/b86a1bca-70e6-49db-80b6-9eeb7454bf19)
 
+<hr>
 
-KDT 2차 프로젝트 | CHATBOT_PLE | NLP, OCR Project
+**KDT 2차 프로젝트 | CHATBOT_PLE | NLP, OCR Project**
 ![image](https://github.com/user-attachments/assets/70a62c80-7efd-43cb-990b-80403e6ebc38)
 
-KDT 3차 프로젝트 | GRUIT | ComputerVision Project
+<hr>
+
+**KDT 3차 프로젝트 | GRUIT | ComputerVision Project**
 
 
