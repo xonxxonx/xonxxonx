@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<hr>
+
 ### :망치와_렌치:Languages and Tools
 ![image](https://github.com/user-attachments/assets/5accb517-be94-4a11-8079-5eff54a9b350)
 ![image](https://github.com/user-attachments/assets/a4604413-e157-41bd-875a-0cf41874e298)
@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 ![image](https://github.com/user-attachments/assets/8c8946e5-2602-45b8-9e3f-4698b71ffc75)
 ![image](https://github.com/user-attachments/assets/ba4ac854-93aa-44c2-b0ea-7bf4c2d717cc)
 ![image](https://github.com/user-attachments/assets/2c492224-ea57-475e-bc78-f981e8d57b62)
-<hr>
+
