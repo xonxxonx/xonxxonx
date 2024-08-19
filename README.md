@@ -65,13 +65,20 @@ AI기반 챗봇 및 OCR 개발 전문가 과정
 ![image](https://github.com/user-attachments/assets/2c492224-ea57-475e-bc78-f981e8d57b62)
 
 <hr>
+<br>
+
+## PROJECTS🗂
+
+<br>
 
 **KDT 1차 프로젝트 | CLEANEAT | WEB Project**
+- 위생적인 식당을 찾아주는 앱
 ![image](https://github.com/user-attachments/assets/b86a1bca-70e6-49db-80b6-9eeb7454bf19)
 
 <hr>
 
 **KDT 2차 프로젝트 | CHATBOT_PLE | NLP, OCR Project**
+- EPL을 좋아하는 당신을 위한 챗봇 서비스
 ![image](https://github.com/user-attachments/assets/70a62c80-7efd-43cb-990b-80403e6ebc38)
 
 <hr>
