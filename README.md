@@ -1,5 +1,4 @@
-
-![header](https://capsule-render.vercel.app/api?type=slice)
+![header](https://capsule-render.vercel.app/api?type=cylinder)
 ## Hi there 👋
 안녕하세요 예비 개발자 이종현입니다.
 
