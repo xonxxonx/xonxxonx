@@ -2,23 +2,14 @@
 안녕하세요 예비 개발자 이종현입니다.
 
 
-<!--
-**xonxxonx/xonxxonx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. 
+2. AI기반 챗봇 및 OCR 개발 전문가 과정
 
 
-### :망치와_렌치:Languages and Tools
+
+
+### ![image](https://github.com/user-attachments/assets/45230baf-f26a-4dee-b446-189153f67626)Language and Tools
+
 ![image](https://github.com/user-attachments/assets/5accb517-be94-4a11-8079-5eff54a9b350)
 ![image](https://github.com/user-attachments/assets/a4604413-e157-41bd-875a-0cf41874e298)
 
