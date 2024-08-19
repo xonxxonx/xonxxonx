@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:36473C,100:2F4F4F&text=JongHyeon&fontColor=ffffff&fontSize=45&animation=fadeIn&desc=&descAlignY=70&descAlign=50&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:36473C,100:2F4F4F&text=JongHyeon&fontColor=ffffff&fontSize=45&animation=fadeIn&desc=git%20hub&descAlignY=70&descAlign=50&descSize=20&height=200)
+
 
 ## Hi there 👋
 안녕하세요 예비 개발자 이종현입니다.
