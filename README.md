@@ -9,7 +9,7 @@
 1. 
 2. AI기반 챗봇 및 OCR 개발 전문가 과정
 
-##\\\\
+##
 
 
 <img src="https://github.com/user-attachments/assets/45230baf-f26a-4dee-b446-189153f67626" width="20"/> Languages and Tools
