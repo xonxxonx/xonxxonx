@@ -85,5 +85,7 @@ AI기반 챗봇 및 OCR 개발 전문가 과정
 <hr>
 
 **KDT 3차 프로젝트 | GRUIT | ComputerVision Project**
+- AI 기술을 활용한 식자재 품질 식별 서비스
+<img width="988" alt="3차 프로젝트" src="https://github.com/user-attachments/assets/fb486847-3cdb-4a34-9437-2e24a80b349c">
 
 
