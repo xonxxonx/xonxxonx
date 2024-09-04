@@ -72,7 +72,7 @@ AI기반 챗봇 및 OCR 개발 전문가 과정
 <br>
 
 **KDT 1차 프로젝트 | CLEANEAT | WEB Project**
-- CleanEat - 깨끗한 먹거리의 시작 [ Web 프로젝트 ]
+깨끗한 먹거리의 시작 [ Web 프로젝트 ]
 [ 서울시 공공데이터 공모전 참가 ]
 - KaKaoMap을 기반으로, 음식점의 위생등급 및 모범음식점 확인서비스
 - HTML + JavaScript
