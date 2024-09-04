@@ -76,14 +76,14 @@ AI기반 챗봇 및 OCR 개발 전문가 과정
 [ 서울시 공공데이터 공모전 참가 ]
 - KaKaoMap을 기반으로, 음식점의 위생등급 및 모범음식점 확인서비스
 - HTML + JavaScript
-<img src="https://github.com/user-attachments/assets/70a62c80-7efd-43cb-990b-80403e6ebc38" width="1000" height="530" alt="KDT 2차 프로젝트">
+<img src="https://github.com/user-attachments/assets/70a62c80-7efd-43cb-990b-80403e6ebc38" width="1000" height="540" alt="KDT 2차 프로젝트">
 
 
 <hr>
 
 **KDT 2차 프로젝트 | CHATBOT_PLE | NLP, OCR Project**
 - EPL을 좋아하는 당신을 위한 챗봇 서비스
-<img src="https://github.com/user-attachments/assets/b86a1bca-70e6-49db-80b6-9eeb7454bf19" width="1000" height="530" alt="KDT 1차 프로젝트">
+<img src="https://github.com/user-attachments/assets/b86a1bca-70e6-49db-80b6-9eeb7454bf19" width="1000" height="540" alt="KDT 1차 프로젝트">
 
 <hr>
 
