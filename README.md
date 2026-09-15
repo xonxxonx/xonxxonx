@@ -1,44 +1,110 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=0:36473C,100:2F4F4F&text=JongHyeon&fontColor=ffffff&fontSize=45&animation=twinkling&desc=git%20hub&descAlignY=70&descAlign=50&descSize=20&height=200)
 
 
-## Hi there 👋
-안녕하세요 예비 개발자 이종현입니다.
+## 안녕하세요, 이종현입니다.
+
+콘텐츠를 만들고, 고객의 반응을 확인하며
+더 나은 콘텐츠를 고민합니다.
 
 
 <br>
 <br>
+
+## ABOUT ME
+
+경영학을 전공하고 대학 및 콘텐츠 플랫폼에서 콘텐츠를 기획·운영했습니다.
+
+유튜브 쇼츠 편집자로 활동하며 콘텐츠별 조회수 차이를 분석하고
+조회수가 높은 주제를 중심으로 제작 방향을 제안했으며,
+직접 썸네일까지 제작하며 콘텐츠 성과를 개선한 경험이 있습니다.
+
+현재는 CJ올리브네트웍스에서 TVING 콘텐츠를 운영하며
+다양한 영상 콘텐츠와 쇼츠·숏드라마 등을 담당하고 있습니다.
+
+콘텐츠를 만드는 것에서 끝나지 않고,
+고객의 반응과 데이터를 확인해 다음 콘텐츠에 반영하는 것을 중요하게 생각합니다.
 
 ## Career
 
-### 1️⃣ 강원대학교 | 2023.06 ~ 2023.12
-**국제교류처 | 주무관 | 국립대학육성사업**
+### 01. CJ올리브네트웍스 | 콘텐츠서비스팀
+**콘텐츠 운영 | 2024.10 ~ 2026.10**
 
-- 한국어 연수생 관리
-- 한국문화 체험 콘텐츠 기획
-- 졸업식, 수료식 등 영상 기획, 촬영, 편집
-- 프로그램 홍보물 제작(웹, SNS, 시내 현수막 제작)
-- 학사관리 시스템(LMS 유지보수)
-- 국제교류처 SNS 홍보물 게시 및 계정 관리
-<br>
-
-### 2️⃣ 유튜버 다콩(Dakong) 편집자 | 2024.05 ~
-**Youtube | 편집자**
-
-- Shorts 영상 기획 및 편집
-- https://www.youtube.com/@da-kong
-
+- TVING 콘텐츠 운영 및 검수
+- 쇼츠·숏드라마 등 영상 콘텐츠 운영
+- 콘텐츠 관련 신규 사업 운영
+- 조회수·참여자 데이터 확인 및 콘텐츠 개선
+- 업무 프로세스 개선 및 운영 효율화
+- 내부 부서 및 외부 파트너 협업
 
 <br>
+
+### 02. DAKONG | YouTube Shorts Editor
+**2024.05 ~**
+
+- YouTube Shorts 영상 기획 및 편집
+- 콘텐츠별 조회수 분석
+- 조회수가 높은 주제 중심의 제작 방향 제안
+- 영상 썸네일 직접 제작
+- 콘텐츠 성과를 기반으로 제작 방향 개선
+
+🔗 [DAKONG YouTube 바로가기](https://www.youtube.com/@da-kong)
+
+<br>
+
+### 03. 강원대학교 | 국제교류처
+**주무관 | 2023.06 ~ 2023.12**
+
+- 외국인 유학생 대상 한국문화 체험 프로그램 기획·운영
+- 프로그램 홍보물 제작 및 SNS 홍보
+- 졸업식·수료식 등 영상 기획·촬영·편집
+- 강사 섭외 및 외부기관 협업
+- 참가자 모집 및 만족도 조사
+
+<br>
 <br>
 
 
-## Education 📒
+## VIDEO
 
-AI기반 챗봇 및 OCR 개발 전문가 과정
+### DAKONG
+**YouTube Shorts Editor**
+
+콘텐츠별 조회수 차이를 확인하고
+조회수가 높은 주제를 중심으로 제작 방향을 제안했습니다.
+
+영상의 핵심이 한눈에 전달될 수 있도록
+썸네일을 직접 제작했습니다.
+
+> [ DAKONG 영상 보러가기 ]
+
 <br>
-2024-03-08 ~ 2024-09-06 6개월간 python 기초문법을 배운 후 web서비스를 위한 node.js, python 서버, html, css, javascript, react native 등을 배운 후 공공API를 사용한 앱을 개발하였고 챗봇 프로젝트를 진행하기 위해 데이터 분석(numpy, pandas, matplotlib), 크롤링, 자연어처리, 머신러닝, 딥러닝등을 공부하여 직접 데이터를 수집하고 서버를 구축 및 모델을 학습시켜 챗봇 프로젝트를 진행하였습니다. 컴퓨터비전(cv2), OCR를 공부하고 활용하여 마지막 컴퓨터비전 프로젝트를 작업 후 성공적으로 해당 과정을 마무리하였습니다.
 
+### PERSONAL VLOG
 
+직접 기획하고 촬영·편집한 개인 영상입니다.
+
+> [ VLOG 01 ]  
+> [ VLOG 02 ]
+
+<br>
+<br>
+
+## CONTENT & DATA
+
+콘텐츠 성과를 감각에만 의존하지 않기 위해
+데이터 분석과 디지털 기술을 함께 공부했습니다.
+
+### AI 기반 챗봇 및 OCR 개발 전문가 과정
+**2024.03 ~ 2024.09 | 1,008시간**
+
+- Python
+- NumPy / Pandas / Matplotlib
+- 데이터 분석
+- 웹 크롤링
+- 자연어처리
+- 머신러닝 / 딥러닝
+- Computer Vision / OCR
+- Node.js / JavaScript / React Native
 
 <br>
 
@@ -92,3 +158,36 @@ AI기반 챗봇 및 OCR 개발 전문가 과정
 <img width="988" alt="3차 프로젝트" src="https://github.com/user-attachments/assets/fb486847-3cdb-4a34-9437-2e24a80b349c">
 
 
+<br>
+<br>
+
+## SKILLS
+
+**VIDEO**
+- 영상 기획
+- 영상 편집
+- YouTube Shorts
+- 썸네일 제작
+
+**CONTENT**
+- 콘텐츠 운영
+- 콘텐츠 검수
+- 콘텐츠 트렌드 분석
+- 콘텐츠 성과 분석
+
+**DATA & DIGITAL**
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- HTML / CSS / JavaScript
+- GitHub
+
+<br>
+<br>
+
+## CONTACT
+
+📧 Email  
+🔗 GitHub  
+▶️ YouTube
